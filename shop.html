@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" /> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mistéva</title> 
+    <link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined" rel="stylesheet" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-9usAa10IRO0HhonpyAIVpjrylPvoDwiPUiKdWk5t3PyolY1cOd4DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+     
+    <script type="module" crossorigin src="/assets/openCloseNav-DoqQEbYF.js"></script>
+    <script type="module" crossorigin src="/assets/featuredProductsCard-DSGGk76Q.js"></script>
+    <script type="module" crossorigin src="/assets/shopCatiProductsCard-BRDwD0DM.js"></script>
+    <script type="module" crossorigin src="/assets/shop2-Nn--5FEz.js"></script>
+    <link rel="stylesheet" crossorigin href="/assets/openCloseNav-gTz3ibwf.css">
+  </head>
+  <body class="scroll bodyAp" id="Y5">
+
+  <!-- sign up section s -->
+  <section class="sign-up-section">  
+  </section>
+  <!-- sign up section e -->
+
+    <!-- header s-->
+    <header class="section-header">  
+    </header>
+    <!-- header e-->
+
+    <!-- shop main image section s-->
+     <section class="shop-main-img">
+        <div class="shop-banner"><img class="shop-banner-img" src="/images/shopBanner1.jpg" alt="shopBanner"></div>
+        <div class="container">
+            <h1 class="shop-page-heading">Shop</h1>
+            <p class="shop-descp">Scroll down to shop all products.</p>
+        </div>
+     </section>
+    <!-- shop main image section e-->
+
+    <!-- shop categories products section s-->
+    <section class="shop-product-display">
+      <div class="container">
+        <h2 class="section-subheading">Shop Categories</h2>
+      </div>
+    
+      <div class="container">
+        <div class="big-categories-btns">
+    
+          <!-- If we need navigation buttons -->
+          <div class="swiper-button-prev"></div>
+    
+          <div class=" categories-btns swiper">
+            <div class="categoriesBtnsContainer swiper-wrapper">
+              <div class="btn-shop1 swiper-slide active" data-id="all">Show all</div>
+    
+              <div class="btn-shop1 swiper-slide" data-id="Hair-Care">Hair Care</div>
+    
+              <div class="btn-shop1 swiper-slide" data-id="Bath-&-Shower">Bath & Shower</div>
+    
+              <div class="btn-shop1 swiper-slide" data-id="Make-up">Make-up</div>
+    
+              <div class="btn-shop1 swiper-slide" data-id="Manicure-&-Pedicure">Manicure & Pedicure</div>
+    
+              <div class="btn-shop1 swiper-slide" data-id="Skin-Care">Skin Care</div>
+    
+              <div class="btn-shop1 swiper-slide" data-id="Fragrance">Fragrance</div>
+    
+            </div>
+          </div>
+    
+          <!-- If we need navigation buttons -->
+          <div class="swiper-button-next"></div>
+        </div>
+      </div>
+    
+      <div class="categories-products">
+        <div class="container grid grid-three-template" id="productShopContainer">
+    
+        </div>
+      </div>
+    </section>
+
+     <template id="shopProductTemplate">
+        <div class="columnCard" id="columnType">
+            <div class="card swiper-slide" id="cardValue">
+                <span class="tage">NEW</span>
+                <div class="card-img"><img class="cardImg"
+                        src=" " alt="">
+                </div>
+        
+                <div class="card-info">
+                    <h3 class="productName"> </h3>
+        
+        
+                    <div class="price-stock">
+                        <p class="price"> </p>
+                        <p class="in-stock"> </p>
+                    </div>
+        
+                    <div class="rating-star">
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star checked"></span>
+                        <span class="fa fa-star"></span>
+                        <span class="fa fa-star"></span>
+                    </div>
+        
+                    <div class="stocks"></div>
+        
+                    <div class="quantity-items">
+                        <div class="add btn2">+</div>
+                        <div class="numAddRemove btn2">1</div>
+                        <div class="remove btn2">-</div>
+                    </div>
+        
+                    <div class="btns-all">
+                        <button class="add-cart-btn btn">Add to Cart</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+     </template>
+    <!-- shop categories products section e-->
+
+     
+    <footer class="section-footer" > 
+    </footer>
+
+
+
+    <!-- swipper script link -->
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
+ 
+    <!-- main script link -->
+</body>
+</html>
