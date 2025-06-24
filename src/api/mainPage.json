@@ -1,0 +1,56 @@
+[
+   
+    {
+        "id": 1,
+        "backgroundImg": "/images/ba-1.webp",
+        "heading": "Discover your beauty",
+        "description": "Shop the Best Beauty Products Online.", 
+        "img": "/images/cos 2.png",
+        "alt": "loreal" 
+    },
+
+    {
+        "id": 2,
+        "backgroundImg": "/images/ba-1.webp",
+        "heading": "Discover your Glow",
+        "description": "Find Your Favorite Skincare Essentials.", 
+        "img": "/images/cos 7.webp",
+        "alt": "vivel" 
+    },
+
+    {
+        "id": 3,
+        "backgroundImg": "/images/ba-1.webp",
+        "heading": "Feel Beautiful Always",
+        "description": "Top Beauty Picks Curated Just for You.", 
+        "img": "/images/cos 3.webp",
+        "alt": "fiama" 
+    },
+
+    {
+        "id": 4,
+        "backgroundImg": "/images/ba-1.webp",
+        "heading": "Shine Every Day",
+        "description": "Get Daily Beauty Essentials Delivered Fast.", 
+        "img": "/images/cos 7.jpg",
+        "alt": "nivea" 
+    },
+
+    {
+        "id": 5,
+        "backgroundImg": "/images/ba-1.webp",
+        "heading": "Radiate Natural Elegance",
+        "description": "Explore Organic and Clean Beauty Products.", 
+        "img": "/images/cos 5.png",
+        "alt": "himalaya" 
+    },
+
+    {
+        "id": 6,
+        "backgroundImg": "/images/ba-1.webp",
+        "heading": "Unleash Your Glam",
+        "description": "Shop Makeup Must-Haves for Every Look.", 
+        "img": "/images/lotus.avif",
+        "alt": "lotus" 
+    }  
+]

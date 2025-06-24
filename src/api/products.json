@@ -1,0 +1,535 @@
+[
+    {
+        "id": 1,
+      "tage":"best seller",
+      "name": "NIVEA",
+      "description":"NIVEA Nourishing Body Milk 600ml Body Lotion | 48 H Moisturization",
+      "price":"289.00",
+      "stock":"30", 
+      "rating":"3",
+      "img":"https://m.media-amazon.com/images/I/51QtN8cihaL._SL1000_.jpg",
+      "typeCategories":"Skin-Care", 
+      "person":"women"
+    }, 
+
+    {
+      "id": 2,
+      "tage":"best seller",
+      "name": "L'Oreal Paris",
+      "description":"L'Oreal Paris Hyaluron Moisture 72HR Moisture Filling Shampoo",
+      "price":"257.00",
+      "stock":"25",
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/41jr41E77ZL._SL1000_.jpg",
+      "typeCategories":"Hair-Care" ,
+      "person":"men women"
+    },
+
+    {
+      "id": 3,
+      "tage":"best seller",
+      "name": "Dot & Key",
+      "description":"Dot & Key Watermelon Cooling Sunscreen SPF 50+ PA++++ | With Hyaluronic Acid",
+      "price":"386.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/610JZURd5NL._SL1500_.jpg",
+      "typeCategories":"Skin-Care", 
+      "person":"women" 
+    },
+
+    {
+      "id": 4,
+      "tage":"best seller",
+      "name": "Muuchstac Ocean",
+      "description":"Muuchstac Ocean Face Wash for Men | Fight Acne & Pimples, Brighten Skin",
+      "price":"245.00",
+      "stock":"5",
+      "rating":"2", 
+      "img":"https://m.media-amazon.com/images/I/51FodsevJrL._SY450_.jpg", 
+      "typeCategories":"Skin-Care", 
+      "person":"men" 
+    },
+
+    {
+      "id": 5,
+      "tage":"best seller",
+      "name": "Minimalist",
+      "description":"Minimalist Anti-Acne Salicylic Acid 2% Face Wash For Oily & Acne Prone Skin",
+      "price":"284.00",
+      "stock":"7", 
+      "rating":"3",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/514PVblwPdL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Skin-Care", 
+      "person":"men women"
+    },
+
+    {
+      "id": 6,
+      "tage":"best seller",
+      "name": "Maybelline",
+      "description":"Maybelline New York Fit Me Compact Powder, Matte + Poreless Compact Powder",
+      "price":"150.00",
+      "stock":"17",
+       "rating":"5",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61FDV10Re5L._AC_UL300_SR300,200_.jpg", 
+      "typeCategories":"Make-up", 
+      "person":"women"
+    },
+
+    {
+      "id": 7,
+      "tage":"best seller",
+      "name": "SUGAR",
+      "description":"SUGAR Cosmetics Matte as Hell Crayon Lipsticks for Women",
+      "price":"359.08",
+      "stock":"22", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61yHJGwr-nL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Make-up", 
+      "person":"women"
+    },
+
+    {
+      "id": 8,
+      "tage":"best seller",
+      "name": "Deconstruct ",
+      "description":"Deconstruct Face Gel Sunscreen SPF 50 + and PA+++ ",
+      "price":"321.00",
+      "stock":"0", 
+      "rating":"5",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51qgywShKTL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Skin-Care", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 9,
+      "tage":"NEW",
+      "name": "Park Avenue ",
+      "description":"Park Avenue Voyage Signature Collection ",
+      "price":"244.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/711eP6dPXeL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Fragrance", 
+      "person":"men" 
+    },
+
+    {
+      "id": 10,
+      "tage":"NEW",
+      "name": "LAKMÉ",
+      "description":"LAKMÉ Color Crush Nail Art T2, Multicolor",
+      "price":"165.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51yfnuDsikL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Manicure-&-Pedicure", 
+      "person":"women" 
+    },
+
+    {
+      "id": 11,
+      "tage":"NEW",
+      "name": "Fiama",
+      "description":"Fiama Body Wash Shower Gel Blackcurrant & Bearberry",
+      "price":"299.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61YZ1vqmglL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 12,
+      "tage":"NEW",
+      "name": "Aveeno",
+      "description":"Aveeno Baby Daily Moisture Wash & Shampoo",
+      "price":"234.77",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/51oyaXx2YSL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"kids" 
+    },
+
+    {
+      "id": 13,
+      "tage":"NEW",
+      "name": "Mamaearth",
+      "description":"Mamaearth Foaming Face Wash for Kids",
+      "price":"197.33",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/51EddYXt1dL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Skin-Care", 
+      "person":"kids" 
+    },
+
+    {
+      "id": 14,
+      "tage":"NEW",
+      "name": "Bare Anatomy",
+      "description":"Bare Anatomy Anti Dandruff Shampoo",
+      "price":"447.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51QuF+V4vkL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Hair-Care", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 15,
+      "tage":"NEW",
+      "name": "Parachute",
+      "description":"Parachute Coconut Oil 300 ml - Bottle",
+      "price":"154.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61dUCXFgN3L._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Hair-Care", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 16,
+      "tage":"NEW",
+      "name": "Nat Habit ",
+      "description":"Nat Habit - Fresh Ready To Apply Henna Paste",
+      "price":"346.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61fL-t6yZuL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Hair-Care", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 17,
+      "tage":"NEW",
+      "name": "L'Oreal Paris",
+      "description":"L'Oreal Paris Excellence Creme Hair Color, 3 Dark Brown",
+      "price":"699.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61wHkCENFtL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Hair-Care", 
+      "person":"women" 
+    },
+
+    {
+      "id": 18,
+      "tage":"NEW",
+      "name": "Dove",
+      "description":"Dove Men+Care Thick & Strong 2in1 Shampoo+Conditioner",
+      "price":"375.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/415W7qHiG4L._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Hair-Care", 
+      "person":"men" 
+    },
+
+    {
+      "id": 19,
+      "tage":"NEW",
+      "name": "Cinthol",
+      "description":"Cinthol Original Bath Soap 99.9% Germ Protection",
+      "price":"185.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61Err9DzAAL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 20,
+      "tage":"NEW",
+      "name": "Savlon ",
+      "description":"Savlon Moisture Shield Germ Protection Liquid Handwash",
+      "price":"169.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61dLaWyiwGL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 21,
+      "tage":"NEW",
+      "name": "Dove",
+      "description":"Dove Cream Beauty Bathing Bar",
+      "price":"318.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51RkCnOwVmL._AC_UL300_SR300,200_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 22,
+      "tage":"NEW",
+      "name": "DERMATOUCH",
+      "description":"DERMATOUCH Kojic Acid 1% Soap with Glutathione ",
+      "price":"153.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61mOhy4Un8L._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 23,
+      "tage":"NEW",
+      "name": "TuCo®",
+      "description":"uCo® Intelligent Kids Mild Body Wash 300ml",
+      "price":"395.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/616ddhm9jLL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"kids" 
+    },
+
+    {
+      "id": 24,
+      "tage":"NEW",
+      "name": "Mamaearth",
+      "description":"Mamaearth Milky Soft Head to Toe Wash With Oats",
+      "price":"379.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/51C-cB0qoWL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Bath-&-Shower", 
+      "person":"kids" 
+    },
+
+    {
+      "id": 25,
+      "tage":"NEW",
+      "name": "Lakmé",
+      "description":"Lakmé Nail Color Remover",
+      "price":"54.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/41Xqew8T5+L._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Manicure-&-Pedicure", 
+      "person":"women" 
+    },
+
+    {
+      "id": 26,
+      "tage":"NEW",
+      "name": "Colorbar",
+      "description":"Colorbar On the Go Nail Lacquer Remover Wipes",
+      "price":"149.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/616tUn21yuL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Manicure-&-Pedicure", 
+      "person":"women" 
+    },
+
+    {
+      "id": 27,
+      "tage":"NEW",
+      "name": "Swiss",
+      "description":"Swiss Beauty Professional UV Gel Nail Polish",
+      "price":"165.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51Nj4ET+V6L._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Manicure-&-Pedicure", 
+      "person":"women" 
+    },
+
+    {
+      "id": 28,
+      "tage":"NEW",
+      "name": "RENEE ",
+      "description":"RENEE Nail Paint Remover Wipes",
+      "price":"85.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51mWGMQACJL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Manicure-&-Pedicure", 
+      "person":"women" 
+    },
+
+    {
+      "id": 29,
+      "tage":"NEW",
+      "name": "POND's",
+      "description":"POND's Natural Glow Face Matte Powder",
+      "price":"115.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51pNLVL+DKL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Make-up", 
+      "person":"women" 
+    },
+
+    {
+      "id": 30,
+      "tage":"NEW",
+      "name": "Lakme",
+      "description":"Lakme 9 to 5 CC Cream Mini, 01 - Beige, Light Face Makeup",
+      "price":"99.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51IgR2yRK2L._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Make-up", 
+      "person":"women" 
+    },
+
+    {
+      "id": 31,
+      "tage":"NEW",
+      "name": "Yaan",
+      "description":"Yaan Man Cream Foundation, 30g",
+      "price":"735.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/71Vq5OQeB0L._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Make-up", 
+      "person":"men" 
+    },
+
+    {
+      "id": 32,
+      "tage":"NEW",
+      "name": "Whimsy",
+      "description":"Whimsy 7-Piece Organic Makeup Kit ",
+      "price":"1150.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/71OK7QuOmxL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Make-up", 
+      "person":"kids" 
+    },
+
+    {
+      "id": 33,
+      "tage":"NEW",
+      "name": "Wottagirl",
+      "description":"Layer'r Wottagirl Vanilla Twist Body Splash",
+      "price":"189.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61AKPyVcBlL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Fragrance", 
+      "person":"women" 
+    },
+
+    {
+      "id": 34,
+      "tage":"NEW",
+      "name": "Beardo",
+      "description":"Beardo Whisky Smoke Perfume for Men",
+      "price":"528.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/71iYB3wKOYL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Fragrance", 
+      "person":"men" 
+    },
+
+    {
+      "id": 35,
+      "tage":"NEW",
+      "name": "The Man Company",
+      "description":"The Man Company Fresh Black Edt Perfume For Men",
+      "price":"549.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61P34NndpLL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Fragrance", 
+      "person":"men" 
+    },
+
+    {
+      "id": 36,
+      "tage":"NEW",
+      "name": "Wild Stone",
+      "description":"Wild Stone Ultra Sensual Long Lasting Perfume for Men",
+      "price":"324.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/51M73SOIdhL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Fragrance", 
+      "person":"men" 
+    },
+
+    {
+      "id": 37,
+      "tage":"NEW",
+      "name": "BELLAVITA",
+      "description":"BELLAVITA CEO Man & White Oud Unisex ",
+      "price":"198.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/519mdAYKTQL._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Fragrance", 
+      "person":"men women" 
+    },
+
+    {
+      "id": 38,
+      "tage":"NEW",
+      "name": "Barbie",
+      "description":"Barbie Princess Body Spray Fragrance ",
+      "price":"250.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/61gFFOI-wAL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Fragrance", 
+      "person":"kids" 
+    },
+
+    {
+      "id": 39,
+      "tage":"NEW",
+      "name": "Garnier",
+      "description":"Garnier Men, Face Wash, Brightening & Anti-Pollution",
+      "price":"166.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/615gCt+GzCL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Skin-Care", 
+      "person":"men" 
+    },
+
+    {
+      "id": 40,
+      "tage":"NEW",
+      "name": "Beardo",
+      "description":"Beardo Ban the Tan Kit | Grooming kit for men",
+      "price":"400.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://m.media-amazon.com/images/I/611BisWCNeL._AC_UL480_FMwebp_QL65_.jpg", 
+      "typeCategories":"Skin-Care", 
+      "person":"men" 
+    },
+
+    {
+      "id": 41,
+      "tage":"NEW",
+      "name": "DERMATOUCH",
+      "description":"DERMATOUCH Bright & Even Tone Face Wash with Niacinamide",
+      "price":"181.00",
+      "stock":"15", 
+      "rating":"4",
+      "img":"https://images-eu.ssl-images-amazon.com/images/I/61XJG2lJD0L._AC_UL600_SR600,400_.jpg", 
+      "typeCategories":"Skin-Care", 
+      "person":"women" 
+    } 
+] 
+ 
